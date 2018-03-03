@@ -1,6 +1,6 @@
 <template lang="html">
 <div class="">
-  LoginHeader
+  <h1>PWAir</h1>
 </div>
 </template>
 
@@ -10,4 +10,5 @@ export default {
 </script>
 
 <style lang="css">
+
 </style>

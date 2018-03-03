@@ -21,4 +21,7 @@ export default {
 </script>
 
 <style lang="css">
+body {
+  text-align: center;
+}
 </style>
